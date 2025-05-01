@@ -42,6 +42,12 @@ WhatsApp groups contain:
 - Ready for Pandas, NumPy, and ML pipelines
 - Lightweight, pure Python (no external libs)
 
+
+Just don’t waste the oil😂
+
+let's contribute 🤝😌
+
+
 ## Installation
 ```bash
 git clone https://github.com/Neewtonium/whatsapp-data-extractor.git
@@ -69,7 +75,3 @@ Roadmap
 
 [ ] Web-based dashboard for real-time analysis ```bash 
 
-
-Just don’t waste the oil😂
-
-let's contribute 🤝😌
