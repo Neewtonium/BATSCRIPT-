@@ -50,9 +50,9 @@ let's contribute 🤝😌
 
 ## Installation
 ```bash
-git clone https://github.com/Neewtonium/whatsapp-data-extractor.git
-cd whatsapp-data-extractor
-python whatsapp_parser.py
+git clone https://github.com/Neewtonium/whatsApDataRipper.git
+cd whatsAppDataRipper
+python whatsAppDataRipper.py
 
 Input Format (Raw Export)
 
