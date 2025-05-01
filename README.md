@@ -43,7 +43,6 @@ WhatsApp groups contain:
 - Lightweight, pure Python (no external libs)
 
 ## Installation
-
 ```bash
 git clone https://github.com/Neewtonium/whatsapp-data-extractor.git
 cd whatsapp-data-extractor
