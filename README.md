@@ -42,6 +42,8 @@ WhatsApp groups contain:
 - Ready for Pandas, NumPy, and ML pipelines
 - Lightweight, pure Python (no external libs)
 
+data output is in CSV easy for R, python analysis 
+
 
 Just don’t waste the oil😂
 
@@ -63,15 +65,4 @@ Example from WhatsApp:
 
 Output Format (CSV)
 
-Roadmap
-
-[ ] Auto sentiment detection
-
-[ ] Word frequency / NLP vectorization
-
-[ ] Message length & engagement scoring
-
-[ ] Graph-based relationship mapping
-
-[ ] Web-based dashboard for real-time analysis ```bash 
 
