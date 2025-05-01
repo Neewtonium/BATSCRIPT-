@@ -67,29 +67,9 @@ Roadmap
 
 [ ] Graph-based relationship mapping
 
-[ ] Web-based dashboard for real-time analysis
+[ ] Web-based dashboard for real-time analysis ```
 
 
-License
+Just don’t waste the oil😂
 
-MIT License — use it, abuse it, evolve it.
-Just don’t waste the oil.
-
-About
-
-Built by Newton Ojwang
-Student. Architect of Lab of Eden. Refiner of digital chaos.
-Data is oil. AI is the engine. This is the refinery.
-
-
----
-
-> “Silently, you build. Ruthlessly, you extract. Unmercifully, you refine.”
-— Lab of Eden Philosophy
-
-
-
----
-
-You want me to generate the repo structure and push steps as well?
-
+let's contribute 🤝😌
